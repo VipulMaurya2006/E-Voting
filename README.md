@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Ballot — College E-Voting & Polling
 
 A beginner-friendly voting app for a college project. Students register, vote **once** in each election or poll, and see a live tally. An election officer creates and closes ballots.
@@ -90,3 +91,6 @@ frontend/         React UI
 - Login uses JWT stored in the browser.
 - Duplicate votes are blocked with a unique `{ poll, voter }` index in MongoDB.
 - This is a **teaching demo**, not a production election system (no voter ID verification, no audit trail UI, JWT in localStorage).
+=======
+# E-Voting
+>>>>>>> 290c2cb641f8a6400f55d33991b4852bfd434d49
